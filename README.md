@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/809d330e-1f78-46e6-91d1-e811fdc2aede)
 
-## 📌 Project Overview
+## 📌 Introduction
 This project focuses on analyzing and predicting housing prices using statistical and exploratory data analysis techniques. The goal is to understand the key factors that influence house prices and evaluate how well these factors explain price variations through regression analysis.
 
 The project is designed as a data analytics portfolio piece, emphasizing analytical thinking, interpretation of results, and clear presentation of insights rather than machine learning deployment.
