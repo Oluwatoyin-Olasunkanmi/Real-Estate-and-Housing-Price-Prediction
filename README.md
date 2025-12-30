@@ -2,12 +2,12 @@
 
 ![Image](https://github.com/user-attachments/assets/809d330e-1f78-46e6-91d1-e811fdc2aede)
 
-## 📌 Introduction
+## Project Overview
 This project analyzes and predicts housing prices using statistical analysis and multiple linear regression. The objective is to identify key factors that influence house prices and quantify their impact through regression modeling.
 
 The project emphasizes **data analysis, interpretation, and insight generation** rather than machine learning deployment.
 
-## 🎯 Objectives
+##  Objectives
 - Identify key factors influencing housing prices  
 - Answer defined research questions using data  
 - Apply regression analysis for price prediction  
@@ -15,7 +15,7 @@ The project emphasizes **data analysis, interpretation, and insight generation**
 
 ---
 
-## ❓ Research Questions
+##  Research Questions
 1. How does property size influence housing prices?  
 2. What effect does the number of bedrooms have on housing prices?  
 3. Do bathrooms significantly affect housing prices?  
@@ -25,7 +25,7 @@ The project emphasizes **data analysis, interpretation, and insight generation**
 
 ---
 
-## 🗂 Dataset Description
+##  Dataset Description
 The dataset consists of **545 residential housing records**, including:
 
 - Property size  
@@ -40,7 +40,7 @@ Data was cleaned to remove missing values, correct data types, and ensure suitab
 
 ---
 
-## 🛠 Tools & Techniques Used
+##  Tools & Techniques Used
 - Microsoft Excel (Data Cleaning & Regression Analysis)  
 - Descriptive Statistics  
 - Multiple Linear Regression  
@@ -49,7 +49,7 @@ Data was cleaned to remove missing values, correct data types, and ensure suitab
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 ### Descriptive Statistics (Sample)
 
@@ -65,7 +65,7 @@ Housing prices show substantial variability, suggesting that multiple factors co
 
 ---
 
-## 📈 Regression Analysis
+##  Regression Analysis
 
 ### Model Specification
 A multiple linear regression model was estimated as:
@@ -76,7 +76,7 @@ A multiple linear regression model was estimated as:
 
 ---
 
-## 🏗 Structural & Amenity Regression Summary
+##  Structural & Amenity Regression Summary
 
 ### Regression Statistics
 
@@ -116,7 +116,7 @@ The model is **statistically significant overall**, confirming that the included
 
 ---
 
-## 📍 Location Preference Analysis
+##  Location Preference Analysis
 
 This section evaluates the effect of **location-related factors** on housing prices, focusing on proximity to main roads and preferred residential areas.
 
@@ -163,7 +163,7 @@ The very low **Significance F** confirms that the location model is **highly sta
 
 ---
 
-## 🔍 Findings by Research Question
+##  Findings by Research Question
 - Property size is the strongest predictor of housing prices.  
 - Bedrooms and bathrooms positively influence prices, though with diminishing returns.  
 - Furnishing status increases housing value.  
@@ -172,14 +172,14 @@ The very low **Significance F** confirms that the location model is **highly sta
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 - Assumes linear relationships between variables  
 - Excludes broader economic and geographic factors  
 - Based on historical data  
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Integrate location and structural variables into a unified model  
 - Include economic and market indicators  
 - Compare alternative regression techniques  
