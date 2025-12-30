@@ -186,4 +186,5 @@ The very low **Significance F** confirms that the location model is **highly sta
   
 
 ---
-
+I am open to collaborate on data analysis, statistical analysis and visualization related projects.
+You can reach me via email (toyinola2001@gmail.com).
