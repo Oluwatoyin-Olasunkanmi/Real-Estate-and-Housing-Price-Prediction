@@ -1,4 +1,4 @@
-# 🏠 Housing Price Prediction
+# 🏠 Real-Estate and Housing Price Prediction
 
 ![Image](https://github.com/user-attachments/assets/809d330e-1f78-46e6-91d1-e811fdc2aede)
 
