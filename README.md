@@ -188,7 +188,9 @@ The very low **Significance F** confirms that the location model is **highly sta
 ---
 I am open to collaborate on data analysis, statistical analysis and visualization related projects, turning raw data into vitual stories relevant for actionable insights.
 You can reach me via email (toyinola2001@gmail.com).
-you can make further enquiries about us using 
+
+You can make further enquiries about us using 
 https://oolasunkanmi.app.n8n.cloud/webhook/8aabf8b1-d887-409a-91fa-f7f59a9a81b5/chat
+
 Thank you.
 
